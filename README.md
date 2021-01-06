@@ -1,8 +1,8 @@
-### Hi, I'm Deki, or Evan.
+### Hi, I'm Extase, or Evan.
 - 🔭 I’m currently working on **[Daidara](https://github.com/dekithewizard/Daida)**, a Discord bot.
 - 🌱 I’m currently learning **JavaScript & Lua**.
 - 📫 How to reach me: 
-  + Discord: **deki#0006**
+  + Discord: **extase#0001**
   + Instagram: **elfgrim**
   + Roblox: **elfgrim**
 - 😄 Pronouns: **he/him**
