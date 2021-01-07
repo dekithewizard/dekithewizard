@@ -1,5 +1,5 @@
 ```md
-### Hi, I'm Extase, or Evan.
+Hi, I'm Extase, or Evan.
 - 🔭 I’m currently working on **[Extase](https://github.com/ex7ase/Extase)**, a Discord bot.
 - 🌱 I’m currently learning **JavaScript & Lua**.
 - 📫 How to reach me: 
