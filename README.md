@@ -8,7 +8,7 @@
   - **I've never eaten KFC..**
   - **I like dogs more than cats.**
   - **Roblox is my favorite game, oddly enough..**
-  - **Audio producing is quite the hobby of mine. Strange? Not sure.**
+  - **Audio producing is quite the hobby of mine.**
 + Contacts
   - Discord: **extase#0001**
   - Roblox: **elfgrim**
