@@ -1,4 +1,3 @@
-### Hi, I'm Extase, or Evan.
+### Hi, I'm Extase.
 + Contacts
   - Discord: **extase#0001**
-  - Insta: **ex7ase**
