@@ -2,8 +2,8 @@
 + Contacts
   - Discord: **extase#0001**
 + Projects
-  - magiku
-  - augment
+  - Magiku
+  - Augment
 + Languages
   - JavaScript
   - Lua
