@@ -2,8 +2,7 @@
 + Contacts
   - Discord: **extase#0001**
 + Projects
-  - Magiku
-  - Augment
+  - Jirachi, a PokeMeow timer-bot, along with a Pokemon-themed utility tool.
 + Languages
   - JavaScript
   - Lua
